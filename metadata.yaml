@@ -1,5 +1,8 @@
 _repo: That-Fortune_3105
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Warner, Charles Dudley
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
 description: Third in a trilogy of novels exploring the creation and decline of a
   family fortune.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3105#That-Fortune
 gutenberg_issued: '2004-10-10'
 gutenberg_type: Text
 identifiers:
